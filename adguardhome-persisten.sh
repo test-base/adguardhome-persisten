@@ -1,5 +1,5 @@
 #!/bin/sh
-# Author: Hosusoh
+# Author: HSSH
 # Description:
 # Dibuat untuk memperbaiki filter adguard yg selalu hilang setelah reboot
 
